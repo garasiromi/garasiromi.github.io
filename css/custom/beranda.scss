@@ -1,0 +1,18 @@
+body {
+    background-image: url("/../garasiromi/gbr/latar.jpg");
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+nav.navbar.navbar-default {
+    border: hidden;
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+a.ling {
+    color: #ffffff !important;
+}
