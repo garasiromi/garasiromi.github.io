@@ -5808,6 +5808,7 @@ button.close {
     display: none !important; } }
 @Import 'bootstrap-sprockets';
 body {
+  background-size: cover;
   background-image: url("/../garasiromi.github.io/gbr/latars.jpg"); }
 
 .navbar {
@@ -5820,6 +5821,9 @@ nav.navbar.navbar-default {
   transform: translatex(-50%); }
 
 a.ling {
-  color: #ffffff !important; }
+  color: #ffffff !important;
+  font-family: raleway;
+  font-weight: bold;
+  text-shadow: 1.5px 1px #000000; }
 
 /*# sourceMappingURL=app.css.map */
